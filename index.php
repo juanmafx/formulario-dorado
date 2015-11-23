@@ -1,5 +1,5 @@
 <?php
-$direccion_envio= 'juanm_ramallo@hotmail.com' ; //la direccion a la que se enviara el email.
+$direccion_envio= 'sumail' ; //la direccion a la que se enviara el email.
 $url= ''; //la URL donde esta publicado el formulario. SIN la barra al final
 ?>
 <?PHP
